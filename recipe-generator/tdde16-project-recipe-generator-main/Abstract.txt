@@ -1,0 +1,16 @@
+Abstract - TDDE16
+
+This report implements and investigates how a word-based RNN (Recurrent Neural Network) could be used to 
+generate cooking recipes. The idea is since it is a word-based RNN, and not character-based, the model 
+should be able to produce meaningful recipes with contextual sentences. A model was trained using a 
+dataset of approximately 90 000 recipes containing three sections: "Title", "Ingredients" and "Instructions".
+ 
+An evaluation metric was developed to measure the quality of the generated recipes. A score was given between 
+0-1. The recipes were evaluated on three main areas: if they contain all three sections, if ingredients found 
+in the Title exists in the Ingredients, and lastly if ingredients found in the Instructions exist in the 
+Ingredients section. A parameter was used when generating the recipes, which would dictate how predictable a 
+generated recipe should be. In the final evaluation, 4 different parameter values were compared to each other. 
+The generated recipes produced a score between 0.48-0.68 (depending on the parameter). In conclusion, the model 
+was able to produce some good recipes, while most of them probably would not be suitable for actual cooking.
+
+Emil Bråkenhielm (emibr678)
