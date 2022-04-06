@@ -1,5 +1,21 @@
 # Portfolio
-A small portfolio of some of the projects I found extra interesting during my studies. Some projects are individual and other together with other students.
+A small portfolio of some of the projects I found extra interesting during my studies. Some projects are individual and other together with other students.  
+
+**Overview:**  
+• Autonomous Brio Labryinth Game - *(Computer Vision)*     
+• Word-Based Recurrent Neural Network Cooking Recipe Generator - *(Natural Language Processing - RCNN)*  
+• Self-flying Airplane using Proximal Policy Optimization - *(Reinforcement Learning - PPO)*    
+• Music Genre Classification using Machine Learning - *(CNN)*  
+• Image Processing for Improved Bacteria Classification - *(Image Processing)*  
+
+# Autonomous Brio Labryinth Game 
+A summer project whith the aim to automate a traditional Brio Labyrinth Game using computer vision, servor motors and a PID-controller. Together with a colleague in the team I worked with the Computer Vision part of the project. It mainly involved extracting live information about the playing field using a camera, and send the transformed data to a rasberry pi control system. The vision part is visualized in the left view of below image.  
+
+**Video**: [Click here to see full demo run!](https://www.youtube.com/watch?v=qAQdGPwQSzg)  
+
+![image](https://user-images.githubusercontent.com/55993222/161958103-f50a1e7e-85f4-46be-9125-0538b53a8a43.png)    
+
+
 
 # Word-Based Recurrent Neural Network Cooking Recipe Generator
 **Abstract:**  
@@ -57,3 +73,11 @@ have the highest impact on the classification of genres... [Read more](https://g
 ![image](https://user-images.githubusercontent.com/55993222/161953636-100d2600-a5e9-4d8f-b22b-38f77a4ffa7a.png)
 
 **Source code CNN:** [Click here](https://github.com/emibr678/Portfolio/blob/main/music-genre-classification/Training_CNNGenreClassifier.ipynb)
+
+# Image Processing for Improved Bacteria Classification - Thesis
+**Abstract**  
+Classifiers are being developed for automated diagnostics using images of agar plates. Input images need to be of reasonable quality and consistent in terms of scale, positioning, perspective, and rotation for accurate classification. Therefore, this thesis investigates if a combination of image processing techniques can be used to match each input image to a pre-defined reference model. A method was proposed to identify important key points needed to register the input image to the reference model. The key points were defined by identifying the agar plate, its compartments, and its rotation within the image... [Read more](http://www.diva-portal.org/smash/get/diva2:1452060/FULLTEXT01.pdf)  
+
+![image](https://user-images.githubusercontent.com/55993222/161956647-d3ead3e5-b436-4196-b1f9-1ebd6c847d4d.png)  
+
+**Source code:** [Click here](https://github.com/emibr678/Portfolio/tree/main/Image-Processing-Bacteria)
