@@ -34,12 +34,13 @@ blueberry-banana bread
 • 1/4 cup canola oil  
 • 1 sheet 10 ounces semisweet chocolate, australian-style lard or peanut butter  
 
-**Source code:**
-**Report:**
+**Source code:** [Click here](https://github.com/emibr678/Portfolio/tree/main/recipe-generator/tdde16-project-recipe-generator-main)  
+**Report:** [Click here](https://github.com/emibr678/Portfolio/blob/main/recipe-generator/tdde16-project-recipe-generator-main/TDDE16_project_report_emibr678.pdf)  
 
 # Self-flying Airplane using Proximal Policy Optimization
 **Abstract:**  
-This report covers the theory and implementation of training an AI-agent to navigate through an environment, reaching checkpoints without crashing along the way. The agent takes the shape of an old fighter jet and everything is visualized in a 3D environment using Unity. The agent is trained using reinforcement learning methods, more specifically using the algorithm called Proximal Policy Optimization which allows for a more stable and consistent training. The results show that Proximal Policy Optimization can successfully train an agent to follow a set of checkpoints in a certain order and that more complex actions and environments are possible to achieve.     
+This report covers the theory and implementation of training an AI-agent to navigate through an environment, reaching checkpoints without crashing along the way. The agent takes the shape of an old fighter jet and everything is visualized in a 3D environment using Unity. The agent is trained using reinforcement learning methods, more specifically using the algorithm called Proximal Policy Optimization which allows for a more stable and consistent training. The results show that Proximal Policy Optimization can successfully train an agent to follow a set of checkpoints in a certain order and that more complex actions and environments are possible to achieve. [Read more](https://github.com/emibr678/Portfolio/blob/main/self-flying-airplane-ppo/TNM095___Project__danhu028__drika827__emibr678_%20(2).pdf)  
+![image](https://user-images.githubusercontent.com/55993222/161951366-7fd4e2fc-ba29-4e5a-aa2e-57bbd483405a.png)
 
-**Source code:** https://gitlab.liu.se/emibr678/tnm095-ai-plane.git  
-**Video:** https://www.youtube.com/watch?v=CplOO-hsRcI  
+**Source code:** [Click here](https://gitlab.liu.se/emibr678/tnm095-ai-plane.git)  
+**Video:** [https://www.youtube.com/watch?v=CplOO-hsRcI](https://www.youtube.com/watch?v=CplOO-hsRcI)  
