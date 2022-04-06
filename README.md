@@ -26,29 +26,29 @@ produce meaningful recipes with contextual sentences. A model was trained
 using a dataset of approximately 90 000 recipes containing three sections.
 "Title", "Ingredients" and "Instructions"… [Read more](https://github.com/emibr678/Portfolio/blob/main/recipe-generator/tdde16-project-recipe-generator-main/TDDE16_project_report_emibr678.pdf)
 
-**Example Recipe:**  
-**Title**  
-blueberry-banana bread  
+    **Example Recipe:**  
+    **Title**  
+    blueberry-banana bread  
 
-**Ingredients**  
-• Challah bread for pan  
-• 1 loaf brioche, oil-coated fat in your bakery wedges  
-• All-purpose flour  
-• Sugar  
-• 1 1/2 banana  
-• 2 large eggs  
-• 3 to 4 bananas  
-• 1 cup panko  
-• 1/4 cup coarsely chopped dill then herbs  
-• 1/4 cup, discoloration with fresh hand ground ginger  
-• 3 tablespoons ripe bananas  
+    **Ingredients**  
+    • Challah bread for pan  
+    • 1 loaf brioche, oil-coated fat in your bakery wedges  
+    • All-purpose flour  
+    • Sugar  
+    • 1 1/2 banana  
+    • 2 large eggs  
+    • 3 to 4 bananas  
+    • 1 cup panko  
+    • 1/4 cup coarsely chopped dill then herbs  
+    • 1/4 cup, discoloration with fresh hand ground ginger  
+    • 3 tablespoons ripe bananas  
 
-**Instructions**
-• Mix eggs, albumen of zest over dough. Mix bananas on top of bread slices. Cover with banana slices. Let rest of proscuitto have absorbed some honey, covered/coated with no-stick cooking spray  
-• Moisten loaf with banana liqueur and tuck in! place the pan down  
-• 27 ounces honey  
-• 1/4 cup canola oil  
-• 1 sheet 10 ounces semisweet chocolate, australian-style lard or peanut butter  
+    **Instructions**
+    • Mix eggs, albumen of zest over dough. Mix bananas on top of bread slices. Cover with banana slices. Let rest of proscuitto have absorbed some honey, covered/coated with no-stick cooking spray  
+    • Moisten loaf with banana liqueur and tuck in! place the pan down  
+    • 27 ounces honey  
+    • 1/4 cup canola oil  
+    • 1 sheet 10 ounces semisweet chocolate, australian-style lard or peanut butter  
 
 **Source code:** [Click here](https://github.com/emibr678/Portfolio/tree/main/recipe-generator/tdde16-project-recipe-generator-main)  
 **Report:** [Click here](https://github.com/emibr678/Portfolio/blob/main/recipe-generator/tdde16-project-recipe-generator-main/TDDE16_project_report_emibr678.pdf)  
