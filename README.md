@@ -68,7 +68,7 @@ classification. Furthermore, to explore which of the machine learning techniques
 (CNN, KNN, and SVM) is best suited in regards to the accuracy of predictions. It is also of
 interest to analyze the genres to see which are easiest to classify as well as which are harder
 3 to classify and why. Furthermore, it is interesting to see which features in the training data
-have the highest impact on the classification of genres... [Read more](https://github.com/emibr678/Portfolio/blob/main/music-genre-classification/Training_CNNGenreClassifier.ipynb)  
+have the highest impact on the classification of genres... [Read more](https://github.com/emibr678/Portfolio/blob/main/music-genre-classification/report_music_genre_classification.pdf)  
 
 ![image](https://user-images.githubusercontent.com/55993222/161953636-100d2600-a5e9-4d8f-b22b-38f77a4ffa7a.png)
 
